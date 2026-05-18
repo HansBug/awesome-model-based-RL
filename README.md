@@ -327,7 +327,7 @@ format:
   - Key: long-horizon, interactive world model, hierarchical memory
   - ExpEnv: interactive world modeling
 
-- [iWorld-Bench: A Benchmark for Interactive World Models with Unified Action Generation](https://openreview.net/forum?id=SkGaHLxhXx)
+- [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://openreview.net/forum?id=SkGaHLxhXx)
   - Jianjie Fang, Yingshan Lei, Qin Wan, Ziyou Wang, Yuchao Huang, Yongyan Xu, Baining Zhao, Weichen Zhang, Chen Gao, Xinlei Chen, Yong Li. *ICML 2026*
   - Key: world model benchmark, interactive, unified action generation
   - ExpEnv: interactive world modeling
