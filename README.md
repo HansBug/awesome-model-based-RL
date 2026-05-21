@@ -193,141 +193,141 @@ format:
 <details open>
 <summary>Toggle</summary>
 
-- [DreamDojo: A Real-Time Robot World Model from Large-Scale Human Videos](https://openreview.net/forum?id=FuvU7PTyED)
+- [DreamDojo: A Real-Time Robot World Model from Large-Scale Human Videos](https://icml.cc/virtual/2026/poster/65193)
   - Shenyuan Gao, William Liang, Kaiyuan Zheng, Ayaan Malik, Seonghyeon Ye, Sihyun Yu, Wei-Cheng Tseng, Yuzhu Dong, Kaichun Mo, Chen-Hsuan Lin, Jiannan Xiang, Yuqi Xie, Ruijie Zheng, Dantong Niu, Pooya Jannaty, Jinwei Gu, Jun Zhang, Jitendra Malik, Pieter Abbeel, Ming-Yu Liu, Yuke Zhu, Joel Jang, Jim Fan. *ICML 2026*
   - Key: robot world model, human video, scalable, real-time
   - ExpEnv: real-time robot manipulation
 
-- [Learning Coupled Continuous-Time Latent Dynamics from Irregular Events](https://openreview.net/forum?id=HfQ0X1lTGg)
+- [Learning Coupled Continuous-Time Latent Dynamics from Irregular Events](https://icml.cc/virtual/2026/poster/65023)
   - Jiankai Zuo, Yang Zhang, Yu Zhang, Jiarui Liang, Yaying Zhang. *ICML 2026*
   - Key: continuous-time dynamics, latent dynamics, irregular events, neural ODE
   - ExpEnv: continuous-time event prediction
 
-- [Scaling Real-World Robot Policy Evaluation via Discrete Diffusion World Model](https://openreview.net/forum?id=93uNlQ1Qp0)
+- [Scaling Real-World Robot Policy Evaluation via Discrete Diffusion World Model](https://icml.cc/virtual/2026/poster/65898)
   - Yaxuan Li, Junjie Wen, Zhongyi Zhou, Yefei Chen, Chaomin Shen, Yaxin Peng, Yichen Zhu. *ICML 2026*
   - Key: world model, policy evaluation, discrete diffusion, robotics
   - ExpEnv: LIBERO, RoboTwin
 
-- [VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs](https://openreview.net/forum?id=yTEEiE3YtD)
+- [VectorWorld: Efficient Streaming World Model via Diffusion Flow on Vector Graphs](https://arxiv.org/pdf/2603.17652v1)
   - Chaokang Jiang, Desen Zhou, Jiuming Liu, Li Sun. *ICML 2026*
   - Key: world model, vector graphics, diffusion flow, streaming
   - ExpEnv: Waymo
 
-- [WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](https://openreview.net/forum?id=ncRRCG4BfP)
+- [WestWorld: A Knowledge-Encoded Scalable Trajectory World Model for Diverse Robotic Systems](https://arxiv.org/pdf/2603.14392v2)
   - Yuchen Wang, Jiangtao Kong, Sizhe Wei, Xiaochang Li, Haohong Lin, Hongjue Zhao, Tianyi Zhou, Lu Gan, Huajie Shao. *ICML 2026*
   - Key: robot world model, trajectory model, cross-embodiment, robotics
   - ExpEnv: diverse robotic systems
 
-- [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](https://openreview.net/forum?id=QvIbmX9jBr)
+- [A Factorized Low-Rank RNN Framework for Uncovering Independent Neural Latent Dynamics and Connectivity](https://icml.cc/virtual/2026/poster/64097)
   - Chengrui Li, Yunmiao Wang, Yule Wang, Weihan Li, Dieter Jaeger, Anqi Wu. *ICML 2026*
   - Key: latent dynamics, RNN, neural data, low-rank
   - ExpEnv: neural data
 
-- [Compositional Planning with Jumpy World Models](https://openreview.net/forum?id=cwztmjMQ77)
+- [Compositional Planning with Jumpy World Models](https://arxiv.org/pdf/2602.19634v1)
   - Jesse Farebrother, Matteo Pirotta, Andrea Tirinzoni, Marc Bellemare, Alessandro Lazaric, Ahmed Touati. *ICML 2026*
   - Key: world model, jumpy prediction, compositional planning, MBRL
   - ExpEnv: compositional planning benchmarks
 
-- [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://openreview.net/forum?id=gTbSqYqumM)
+- [The Surprising Difficulty of Search in Model-Based Reinforcement Learning](https://arxiv.org/pdf/2601.21306v1)
   - Wei-Di Chang, Mikael Henaff, Brandon Amos, Gregory Dudek, Scott Fujimoto. *ICML 2026*
   - Key: model-based RL, search, planning, empirical study
   - ExpEnv: MBRL benchmarks
 
-- [Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](https://openreview.net/forum?id=eB5i7caric)
+- [Policy-Driven World Model Adaptation for Robust Offline Model-based Reinforcement Learning](https://arxiv.org/pdf/2505.13709v3)
   - Jiayu Chen, Le Xu, Aravind Venugopal, Jeff Schneider. *ICML 2026*
   - Key: offline MBRL, world model adaptation, policy-driven, robustness
   - ExpEnv: D4RL, MuJoCo
 
-- [Long-Horizon Model-Based Offline Reinforcement Learning Without Conservatism](https://openreview.net/forum?id=NHu6haXTM9)
+- [Long-Horizon Model-Based Offline Reinforcement Learning Without Conservatism](https://arxiv.org/pdf/2512.04341)
   - Tianwei Ni, Esther Derman, Vineet Jain, Vincent Taboga, Siamak Ravanbakhsh, Pierre-Luc Bacon. *ICML 2026*
   - Key: long-horizon RL, model-based, offline RL, conservatism-free
   - ExpEnv: D4RL
 
-- [Harmonized Dual Policy Improvement for Model-based Reinforcement Learning](https://openreview.net/forum?id=Az6TOqyAGM)
+- [Harmonized Dual Policy Improvement for Model-based Reinforcement Learning](https://icml.cc/virtual/2026/poster/65707)
   - Guojian Zhan, Likun Wang, Feihong Zhang, Yang Guan, Shengbo Li. *ICML 2026*
   - Key: model-based RL, policy improvement, harmonized objective
   - ExpEnv: DMControl
 
-- [Debiased Model-based Representations for Sample-efficient Continuous Control](https://openreview.net/forum?id=ZP1p8k106p)
+- [Debiased Model-based Representations for Sample-efficient Continuous Control](https://arxiv.org/pdf/2605.11711v1)
   - Jiafei Lyu, Zichuan Lin, Scott Fujimoto, Kai Yang, Yangkun Chen, Saiyong Yang, Zongqing Lu, Deheng Ye. *ICML 2026*
   - Key: model-based representations, debiasing, sample efficiency, continuous control
   - ExpEnv: continuous control
 
-- [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](https://openreview.net/forum?id=Ym6ud8Psx1)
+- [Dream-MPC: Gradient-Based Model Predictive Control with Latent Imagination](https://arxiv.org/pdf/2605.04568v1)
   - Jonathan Spieler, Sven Behnke. *ICML 2026*
   - Key: latent imagination, gradient-based MPC, world model
   - ExpEnv: continuous control
 
-- [Boosting World Models Learning via Latent-Space Value Alignment](https://openreview.net/forum?id=2OpelTEjaO)
+- [Boosting World Models Learning via Latent-Space Value Alignment](https://icml.cc/virtual/2026/poster/66589)
   - Xingyu Jiang, Yuheng Pan, Mukang You, Xiuhui Zhang, Ning Gao, Guanwei Yan, Hao Li, Yue Deng. *ICML 2026*
   - Key: world model, latent-space value alignment, MBRL
   - ExpEnv: Atari, DMControl
 
-- [Prioritized Model Experience Replay](https://openreview.net/forum?id=eDPv55hTQ6)
+- [Prioritized Model Experience Replay](https://icml.cc/virtual/2026/poster/62693)
   - Muxi Tao, Jiangtao Wen, Yuxing Han. *ICML 2026*
   - Key: experience replay, model-based RL, prioritization
   - ExpEnv: MuJoCo
 
-- [Offline Reinforcement Learning with Universal Horizon Models](https://openreview.net/forum?id=GFmJ5XcGWl)
+- [Offline Reinforcement Learning with Universal Horizon Models](https://arxiv.org/pdf/2605.15603v1)
   - Hojun Chung, Junseo Lee, Songhwai Oh. *ICML 2026*
   - Key: universal horizon models, offline RL, model-based
   - ExpEnv: D4RL
 
-- [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](https://openreview.net/forum?id=omJqMJt2fC)
+- [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](https://arxiv.org/pdf/2601.14354v1)
   - Yongchao Huang. *ICML 2026*
   - Key: JEPA, variational, probabilistic world model
   - ExpEnv: representation learning benchmarks
 
-- [Causal-JEPA: Learning World Models through Object-Level Latent Interventions](https://openreview.net/forum?id=VMAHQDOtjp)
+- [Causal-JEPA: Learning World Models through Object-Level Latent Interventions](https://arxiv.org/pdf/2602.11389v1)
   - Heejeong Nam, Quentin Le Lidec, Lucas Maes, Yann LeCun, Randall Balestriero. *ICML 2026*
   - Key: JEPA, causal, latent interventions, world model
   - ExpEnv: object-centric video
 
-- [Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction](https://openreview.net/forum?id=2CliXIoJNZ)
+- [Maximum-Likelihood Learning of Latent Dynamics Without Reconstruction](https://arxiv.org/pdf/2505.23569v1)
   - Samo Hromadka, Kai Biegun, Lior Fox, James Heald, Maneesh Sahani. *ICML 2026*
   - Key: latent dynamics, maximum likelihood, reconstruction-free
 
-- [Twice Sequential Monte Carlo for Tree Search](https://openreview.net/forum?id=rmWRfKECEC)
+- [Twice Sequential Monte Carlo for Tree Search](https://arxiv.org/pdf/2511.14220v2)
   - Yaniv Oren, Joery de Vries, Pascal Van der Vaart, Matthijs T. J. Spaan, Wendelin Boehmer. *ICML 2026*
   - Key: tree search, sequential Monte Carlo, MCTS alternative, planning
   - ExpEnv: planning benchmarks
 
-- [Parallel Stochastic Gradient-Based Planning for World Models](https://openreview.net/forum?id=J8lkAoQeYK)
+- [Parallel Stochastic Gradient-Based Planning for World Models](https://arxiv.org/pdf/2602.00475v1)
   - Michael Psenka, Michael Rabbat, Aditi Krishnapriyan, Yann LeCun, Amir Bar. *ICML 2026*
   - Key: parallel planning, stochastic gradient, world model
   - ExpEnv: world-model planning benchmarks
 
-- [Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models](https://openreview.net/forum?id=yKQ8GrwEhr)
+- [Towards Practical World Model-based Reinforcement Learning for Vision-Language-Action Models](https://arxiv.org/pdf/2603.20607v1)
   - Zhilong Zhang, Haoxiang Ren, Yihao Sun, Yifei Sheng, Haonan Wang, Zhichao Wu, Haoxin Lin, Pierre-Luc Bacon, Yang Yu. *ICML 2026*
   - Key: world model, VLA, model-based RL
   - ExpEnv: VLA benchmarks
 
-- [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://openreview.net/forum?id=68zOaa2gOf)
+- [VLAW: Iterative Co-Improvement of Vision-Language-Action Policy and World Model](https://arxiv.org/pdf/2602.12063v2)
   - Yanjiang Guo, Tony Lee, Lucy Xiaoyang Shi, Jianyu Chen, Percy Liang, Chelsea Finn. *ICML 2026*
   - Key: VLA, world model, iterative co-improvement
   - ExpEnv: VLA robotics
 
-- [Cross-Embodiment Robot Foundation World Models with Latent Actions](https://openreview.net/forum?id=S30Y1sBz34)
+- [Cross-Embodiment Robot Foundation World Models with Latent Actions](https://icml.cc/virtual/2026/poster/63978)
   - Huang Huang, Sriram Yenamandra, Arjun Majumdar, Elie Aljalbout, Tushar Nagarajan, Jimmy Yang, Akshara Rai, Michael Rabbat, Li Fei-Fei, Jiajun Wu, Tingfan Wu, Franziska Meier. *ICML 2026*
   - Key: world model, cross-embodiment, foundation model, latent actions
   - ExpEnv: cross-embodiment robotics
 
-- [Learning Latent Action World Models In The Wild](https://openreview.net/forum?id=HDf5semiaB)
+- [Learning Latent Action World Models In The Wild](https://arxiv.org/pdf/2601.05230v2)
   - Quentin Garrido, Tushar Nagarajan, Basile Terver, Nicolas Ballas, Yann LeCun, Michael Rabbat. *ICML 2026*
   - Key: latent actions, world model, in-the-wild video
   - ExpEnv: real-world video
 
-- [Structured 4D Latent World Model for Robot Planning](https://openreview.net/forum?id=aXAgpGfHGc)
+- [Structured 4D Latent World Model for Robot Planning](https://icml.cc/virtual/2026/poster/63054)
   - Zhiyi Li, Peilin Wu, Xiaoshen Han, Ruojin Cai, Yilun Du. *ICML 2026*
   - Key: 4D latent world model, robot planning, structured representations
   - ExpEnv: robot planning
 
-- [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://openreview.net/forum?id=27m3BuajLs)
+- [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/pdf/2602.02393v2)
   - Ruiqi Wu, Xuanhua He, Meng Cheng, Tianyu Yang, Yong Zhang, Zhuoliang Kang, Xunliang Cai, Xiaoming Wei, Chunle Guo, Chongyi Li, Ming-Ming Cheng. *ICML 2026*
   - Key: long-horizon, interactive world model, hierarchical memory
   - ExpEnv: interactive world modeling
 
-- [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://openreview.net/forum?id=SkGaHLxhXx)
+- [iWorld-Bench: A Benchmark for Interactive World Models with a Unified Action Generation Framework](https://arxiv.org/pdf/2605.03941v2)
   - Jianjie Fang, Yingshan Lei, Qin Wan, Ziyou Wang, Yuchao Huang, Yongyan Xu, Baining Zhao, Weichen Zhang, Chen Gao, Xinlei Chen, Yong Li. *ICML 2026*
   - Key: world model benchmark, interactive, unified action generation
   - ExpEnv: interactive world modeling
